@@ -2,17 +2,17 @@ extended_attributes = """
 {"3d_armor_inventory":"return {\"\", \"\", \"\", \"\"}","cape":"1","cape_letter":"26","color":"yes","haircut":"2","hunger:exhaustion":"134","hunger:level":"21","hunger:poisoned":"no","nametag_color":"return {[\"r\"] = 255, [\"g\"] = 0, [\"b\"] = 0}","sethome:home":"(-252.9,14.1,-385.7)","skin":"5","waypoints":"return {{[\"name\"] = \"Spawn\", [\"id\"] = 0, [\"color\"] = 13369819, [\"pos\"] = {[\"z\"] = -386, [\"x\"] = -253, [\"y\"] = 14}, [\"hide\"] = false}}"}
 
 """
-breath = 11
+breath = 48
 position = (-2530.69,140.6,-3856.02)
 pitch = 7.95
-hp = 20
+hp = 48
 name = Player
 yaw = 356.54
 version = 1
 PlayerArgsEnd
 List main 36
 Width 0
-Item tnt:tnt
+Item head
 Empty
 Empty
 Empty
