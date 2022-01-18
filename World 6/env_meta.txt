@@ -1,0 +1,7 @@
+day_count = 540695924
+game_time = 4814
+lbm_introduction_times_version = 1
+lbm_introduction_times = :farming:start_nodetimer_wheat~0;:farming_addons:start_nodetimer_melon~0;:farming_addons:start_nodetimer_pumpkin~0;:farming_plants:start_nodetimer_carrot~0;:farming_plants:start_nodetimer_corn~0;:farming_plants:start_nodetimer_cucumber~0;:farming_plants:start_nodetimer_melon~0;:farming_plants:start_nodetimer_potato~0;:farming_plants:start_nodetimer_strawberry~0;:farming_plants:start_nodetimer_sunflower~0;:farming_plants:start_nodetimer_tomato~0;default:bookshelf_updater~0;default:chest_updater_v3~0;default:convert_saplings_to_node_timer~0;farming_plants:melon_upgrader~0;vessels:shelf_updater~0;walls:legacy_upgrade~0;workbench:updater_v6~0;xpanes:gen2~0;
+last_clear_objects_time = 0
+time_of_day = 18619
+EnvArgsEnd
